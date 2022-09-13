@@ -1,0 +1,67 @@
+.buy-btn.top-btn {
+    background-color: #b154f0  ;
+    border-color: #b154f0;
+}
+.buy-btn:hover {
+    background-color: #b154f0  ;
+    border-color: #b154f0  ;
+}
+.demo-item .image::after {
+    background-color: #b154f0  ;
+}
+.demo-item .image i:hover {
+    color: #b154f0  ;
+}
+.stick .buy-btn.top-btn {
+    border: 2px solid #b154f0  ;
+    color: #fff;
+}
+.stick .buy-btn {
+    border: 2px solid #b154f0  ;
+    color: #b154f0  ;
+}
+.single-feature .icon {
+    color: #b154f0  ;
+}
+.footer-section {
+    background-color: #444;
+}
+.stick .buy-btn:hover {
+    color: #fff;
+}
+.demo-item .title a:hover {
+    color: #b154f0  ;
+}
+.footer-section .buy-btn:hover {
+    color: #b154f0  ;
+}
+.footer-section .buy-btn.bottom-btn {
+    color: #fff;
+    background-color: #b154f0  ;
+    border: 2px solid #b154f0  ;
+}
+.hero-content h1 strong{
+    text-transform: capitalize;
+}
+.stick .non-sticky {
+    display: none;
+}
+.demo-item {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+}
+.demo-item .title {
+    padding: 20px 0;
+    margin: 0;
+}
+.float-right a{
+    display: inline-block;
+}
+.hader-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+.stick .hader-inner {
+    padding: 0;
+}
