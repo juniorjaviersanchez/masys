@@ -7,7 +7,7 @@
             </div>
             
             <div class="single-feature col-md-4 col-sm-6 col-xs-12 mb-50">
-                <span class="icon float-left"><i class="icon-profile-male"></i></span>
+                <span class="icon float-left"><i class="icon-mobile"></i></span>
                 <div class="content fix">
                     <h4>Diseño Web</h4>
                     <p>Páginas totalmente únicas y atractivas que se adaptan al tipo del diseño de negocio o marca personal.</p>
@@ -15,7 +15,7 @@
             </div>
 
             <div class="single-feature col-md-4 col-sm-6 col-xs-12 mb-50">
-                <span class="icon float-left"><i class="icon-mobile"></i></span>
+                <span class="icon float-left"><i class="icon-laptop"></i></span>
                 <div class="content fix">
                     <h4>Aplicaciones de escritorio</h4>
                     <p>Aplicaciones personalizadas para tu negocio.</p>
@@ -23,7 +23,7 @@
             </div>
 
             <div class="single-feature col-md-4 col-sm-6 col-xs-12 mb-50">
-                <span class="icon float-left"><i class="icon-beaker"></i></span>
+                <span class="icon float-left"><i class="icon-upload"></i></span>
                 <div class="content fix">
                     <h4>Aplicaciones Web</h4>
                     <p>Aplicaciones que agilizan los procesos de tu empresa.</p>

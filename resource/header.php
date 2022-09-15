@@ -34,7 +34,5 @@
     })(window,document,'script','dataLayer','GTM-MJXQWHD');</script>
     <!-- End Google Tag Manager -->
     
-    <!-- FONT AWESOME-->
-    <script src="https://kit.fontawesome.com/2ddf693e05.js" crossorigin="anonymous"></script>
 
 </head>
