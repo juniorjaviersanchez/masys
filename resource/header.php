@@ -1,7 +1,7 @@
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Bonx - Vue Js Gaming Website Template with Nuxt Js</title>
+    <title> Masys </title>
     <meta name="description" content="Bonx is a Bootstrap5 Template exclusively built for Gaming Website Template">
     <meta name="keywords" content="Online Gaming HTML Template, Gaming Magazine Template, Gaming Bootstrap 5 Template, Gaming Template based on Bootstrap, Gaming Bootstrap 5 HTML Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
