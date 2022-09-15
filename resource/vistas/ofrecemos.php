@@ -1,5 +1,5 @@
 <!-- Start Hero Section -->
-<div class="feature-section section pb-100">
+<div class="feature-section section pt-120 pb-100">
     <div class="container">
         <div class="row">
             <div class="section-title col-xs-12 mb-70">

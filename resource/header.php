@@ -6,7 +6,7 @@
     <meta name="keywords" content="Online Gaming HTML Template, Gaming Magazine Template, Gaming Bootstrap 5 Template, Gaming Template based on Bootstrap, Gaming Bootstrap 5 HTML Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="https://vuedemo.hasthemes.com/bonx/p2/img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="./public/img/logo/favicon.png">
     <!-- All CSS Files -->
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="./bonx_files/bootstrap.min.css">

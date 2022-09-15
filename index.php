@@ -28,11 +28,15 @@
     </div>
     <!-- Hero Section End -->
 
+    <!-- Ofrecemos -->
+    <?php require 'resource/vistas/ofrecemos.php'; ?>
+
+    <!-- Counter -->
+    <?php require 'resource/vistas/counter.php'; ?>
+
     <!-- Portafolio -->
     <?php require 'resource/vistas/portafolio.php'; ?>
 
-    <!-- Ofrecemos -->
-    <?php require 'resource/vistas/ofrecemos.php'; ?>
 
     <!-- Footer -->
     <?php require 'resource/footer.php'; ?>

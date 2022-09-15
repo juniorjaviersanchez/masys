@@ -1,5 +1,5 @@
 <!-- Start Demo Section -->
-<div id="demo" class="demo-section section pt-120 pb-70">
+<div id="demo" class="demo-section section pb-70">
     <div class="container">
         <div class="row">
             <div class="section-style">
