@@ -4,7 +4,7 @@
         <div class="row">
             <div class="section-style">
                 <div class="section-title col-xs-12 mb-70">
-                    <h1>Portafolio.</h1>
+                    <h1>Portafolio</h1>
                 </div>
             </div>
         </div>

@@ -20,7 +20,7 @@
             <div class="row">
                 <div class="hero-content text-center col-xs-12">
                     <h1><strong>MASYS</strong> Páginas & Aplicaciones Web</h1>
-                    <p>Crece tu negocio, creamos tu web</p>
+                    <p> Haz crecer tu negocio, nosotros te ayudamos </p>
                     <a class="buy-btn" href="https://vuedemo.hasthemes.com/bonx/tf.html?storefront=envato-elements#demo">Más Detalles</a>
                 </div>
             </div>
