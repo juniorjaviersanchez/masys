@@ -70,3 +70,26 @@
     background-color: #181733 !important;
     color: white;
 }
+
+.btn-whatsapp-masys{
+    display: flex;
+    align-items: center;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    background-color: #25D366; /* Green WhatsApp color */
+    color: #ebebeb;
+    padding: 13px;
+    border-radius: 50%;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 999;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-whatsapp-masys:hover{
+    bottom: 30px;
+    color: white;
+    transform: scale(1.2);
+}

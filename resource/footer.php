@@ -1,3 +1,9 @@
+<!-- BEGIN Botón de whatsapp flotante -->
+<a href="https://wa.me/51963136981?text=Hola,%20Quiero%20más%20información%20" class="btn float-right btn-whatsapp-masys" target="_blank">
+    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+</a>
+<!-- END -->
+
 <div class="footer-section section pt-30 pb-15">
     <div class="container">
         <div class="row">
