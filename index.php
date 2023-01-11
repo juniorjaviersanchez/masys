@@ -15,7 +15,7 @@
     <?php require 'resource/vistas/nav.php'; ?>
 
     <!-- Start Hero Section -->
-    <div class="hero-section section overlay" style="background-image: url('public/img/fondos/codigo3.jpg')">
+    <div class="hero-section section overlay" style="background-image: url('public/img/fondos/codigo3.jpg')">    
         <div class="container">
             <div class="row">
                 <div class="hero-content text-center col-xs-12">

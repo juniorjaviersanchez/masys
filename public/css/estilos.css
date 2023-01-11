@@ -65,3 +65,8 @@
 .stick .hader-inner {
     padding: 0;
 }
+
+.nav-masys {
+    background-color: #181733 !important;
+    color: white;
+}
